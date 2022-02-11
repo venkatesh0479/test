@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\19yh8fme\\source\\repos\\CommonServices\\Logging\\src\\TestLogDotNetFramework\\TestLogDotNetFramework.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\19yh8fme\\source\\repos\\CommonServices\\Logging\\src\\TestLogDotNetFramework\\TestLogDotNetFramework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\19yh8fme\\source\\repos\\CommonServices\\Logging\\src\\TestLogDotNetFramework\\TestLogDotNetFramework.csproj",
+        "projectName": "TestLogDotNetFramework",
+        "projectPath": "C:\\Users\\19yh8fme\\source\\repos\\CommonServices\\Logging\\src\\TestLogDotNetFramework\\TestLogDotNetFramework.csproj",
+        "packagesPath": "C:\\Users\\19yh8fme\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\19yh8fme\\source\\repos\\CommonServices\\Logging\\src\\TestLogDotNetFramework\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\19yh8fme\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\LocalNuget": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "dependencies": {
+            "App.Logger": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

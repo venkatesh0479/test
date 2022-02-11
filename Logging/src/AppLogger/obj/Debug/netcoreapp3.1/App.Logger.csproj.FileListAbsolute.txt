@@ -1,0 +1,9 @@
+C:\Users\19yh8fme\source\repos\CommonServices\Logging\src\AppLogger\bin\Debug\netcoreapp3.1\App.Logger.deps.json
+C:\Users\19yh8fme\source\repos\CommonServices\Logging\src\AppLogger\bin\Debug\netcoreapp3.1\App.Logger.dll
+C:\Users\19yh8fme\source\repos\CommonServices\Logging\src\AppLogger\bin\Debug\netcoreapp3.1\App.Logger.pdb
+C:\Users\19yh8fme\source\repos\CommonServices\Logging\src\AppLogger\obj\Debug\netcoreapp3.1\App.Logger.csproj.AssemblyReference.cache
+C:\Users\19yh8fme\source\repos\CommonServices\Logging\src\AppLogger\obj\Debug\netcoreapp3.1\App.Logger.AssemblyInfoInputs.cache
+C:\Users\19yh8fme\source\repos\CommonServices\Logging\src\AppLogger\obj\Debug\netcoreapp3.1\App.Logger.AssemblyInfo.cs
+C:\Users\19yh8fme\source\repos\CommonServices\Logging\src\AppLogger\obj\Debug\netcoreapp3.1\App.Logger.csproj.CoreCompileInputs.cache
+C:\Users\19yh8fme\source\repos\CommonServices\Logging\src\AppLogger\obj\Debug\netcoreapp3.1\App.Logger.dll
+C:\Users\19yh8fme\source\repos\CommonServices\Logging\src\AppLogger\obj\Debug\netcoreapp3.1\App.Logger.pdb
